@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+
+# Env files
+.env.*
+!.env.example
+
+# Output files
+flashcards_out/
